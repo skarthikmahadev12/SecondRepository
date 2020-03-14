@@ -1,1 +1,1 @@
-Hellow, welcome to tutorial.
+Hello, welcome to git tutorial. In next video.
